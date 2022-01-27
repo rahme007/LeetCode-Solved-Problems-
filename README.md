@@ -1,4 +1,4 @@
-# LeetCode Problems-
+# LeetCode Problems
 This is the collection of LeetCode Solved Problems.
 
 <ol type = "a">
