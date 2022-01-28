@@ -1,6 +1,4 @@
 
-
-
 # Note: The solution approach resembles Binary Search Algorithm
 
 from typing import List
