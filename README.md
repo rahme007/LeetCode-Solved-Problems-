@@ -1,4 +1,9 @@
-<img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" width="50" height="50">
+<p float="left">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" width="40" height="40">
+  &nbsp;
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40">
+</p>
 
 # LeetCode Problems
 This is the collection of LeetCode Solved Problems.
@@ -9,4 +14,6 @@ This is the collection of LeetCode Solved Problems.
   <li>Pr-167 (Two Sum II - Input Array Is Sorted): Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.
 Return the indices of the two numbers, index1 and index2, added by one as an integer array [index1, index2] of length 2.The tests are generated such that there is exactly one solution. You may not use the same element twice.
 <br> Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ </li>
+  <li>Pr-15 (3Sum):Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0. Notice that the solution set must not contain duplicate triplets. 
+  <br> Link: https://leetcode.com/problems/3sum/ </li>
 </ol>
