@@ -18,4 +18,6 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
 <br> Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ </li>
   <li>Pr-15 (3Sum):Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0. Notice that the solution set must not contain duplicate triplets. 
   <br> Link: https://leetcode.com/problems/3sum/ </li>
+  <li>Pr-155 (Min Stack) Design a stack that supports push, pop, top, and retrieving the minimum element in constant time. 
+  <br> Link: https://leetcode.com/problems/min-stack/ </li>
 </ol>
