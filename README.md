@@ -4,6 +4,8 @@
   <img src="https://us.123rf.com/450wm/juliarstudio/juliarstudio1602/juliarstudio160202524/51973336-right-arrow-black-simple-icon-isolated-on-white-background.jpg?ver=6" width="30" height="30">
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40">
+  &nbsp;
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40">
 </p>
 
 # LeetCode Problems
@@ -22,4 +24,6 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
   <br> Link: https://leetcode.com/problems/3sum/ </li>
   <li>Pr-155 (Min Stack) Design a stack that supports push, pop, top, and retrieving the minimum element in constant time. 
   <br> Link: https://leetcode.com/problems/min-stack/ </li>
+  <li> Pr-101 (Symmetric Tree) Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
+  <br> Link: https://leetcode.com/problems/symmetric-tree/ </li>
 </ol>
