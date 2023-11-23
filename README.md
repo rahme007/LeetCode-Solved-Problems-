@@ -27,7 +27,7 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
   <li> Pr-101 (Symmetric Tree) Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
   <br> Link: https://leetcode.com/problems/symmetric-tree/ </li>
   <li> Pr-1424 (Diagonal Traverse II) Given a 2D integer array nums, return all elements of nums in diagonal order as shown in the below images.
-  <img src="https://assets.leetcode.com/uploads/2020/04/08/sample_1_1784.png" width="40" height="40">
+  <img src="https://assets.leetcode.com/uploads/2020/04/08/sample_1_1784.png" width="120" height="120">
   &nbsp;
   <br> Link: https://leetcode.com/problems/diagonal-traverse-ii/ </li>
 </ol>
