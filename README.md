@@ -26,12 +26,12 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
   <br> Link: https://leetcode.com/problems/min-stack/ </li>
   <li> Pr-101 (Symmetric Tree) Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
   <br> Link: https://leetcode.com/problems/symmetric-tree/ </li>
-  <li> Pr-1424 (Diagonal Traverse II) Given a 2D integer array nums, return all elements of nums in diagonal order as shown in the below images.
+  <li> Pr-1424[C++] (Diagonal Traverse II) Given a 2D integer array nums, return all elements of nums in diagonal order as shown in the below images.
   &nbsp;
   <img src="https://assets.leetcode.com/uploads/2020/04/08/sample_1_1784.png" width="120" height="120">
   &nbsp;
   <br> Link: https://leetcode.com/problems/diagonal-traverse-ii/ </li>
-  <li> Pr-1561 (Maximum Number of Coins You Can Get) There are 3n piles of coins of varying size, you and your friends will take piles of coins as follows:
+  <li> Pr-1561[C++] (Maximum Number of Coins You Can Get) There are 3n piles of coins of varying size, you and your friends will take piles of coins as follows:
     <ul style= “list-style-type⚫>
     <li>In each step, you will choose any 3 piles of coins (not necessarily consecutive). </li>
     <li>Of your choice, Alice will pick the pile with the maximum number of coins.</li>
