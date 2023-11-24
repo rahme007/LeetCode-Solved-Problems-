@@ -28,7 +28,6 @@ public:
 
 int main()
 {
-    //std::cout << "Hello World!\n";
     //vector<int> piles = { 2,4,1,2,7,8 };
     vector<int> piles = { 9,8,7,6,5,4,3,2,1};
     Solution s;
