@@ -40,7 +40,11 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
     <li>Repeat until there are no more piles of coins. </li> </ul>
   <br>Given an array of integers piles where piles[i] is the number of coins in the ith pile. Return the maximum number of coins that you can have.
   <br> Link: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/ </li>
-
-
+  <li> Pr-917[C++] (Reverse Only Letters) Given a string s, reverse the string according to the following rules:
+    <ul style= “list-style-type⚫>
+    <li>All the characters that are not English letters remain in the same position. </li>
+    <li>All the English letters (lowercase or uppercase) should be reversed.</li> </ul>
+    <br> Return s after reversing it.
+  <br> Link:https://leetcode.com/problems/reverse-only-letters/description/
 
 </ol>
