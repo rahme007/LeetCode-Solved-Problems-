@@ -46,5 +46,6 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
     <li>All the English letters (lowercase or uppercase) should be reversed.</li> </ul>
     <br> Return s after reversing it.
   <br> Link:https://leetcode.com/problems/reverse-only-letters/description/
-
+  <li> Pr-203 [C++] (Remove Linked List Elements): Given the head of a linked list and an integer val, remove all the nodes of the linked list that has Node.val == val, and return the new head
+    <br>Link: https://leetcode.com/problems/remove-linked-list-elements/description/)https://leetcode.com/problems/remove-linked-list-elements/description/ </li> <br>
 </ol>
