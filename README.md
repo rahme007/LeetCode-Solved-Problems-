@@ -53,4 +53,7 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
     <br>Link: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=study-plan-v2&envId=leetcode-75 </li> <br>
   <li> Pr-2352 [C++] (Equal Row and Column Pairs): Given a 0-indexed n x n integer matrix grid, return the number of pairs (r<sub>i</sub>, c<sub>j</sub>) such that row r<sub>i</sub> and column c<sub>j</sub> are equal. A row and column pair is considered equal if they contain the same elements in the same order (i.e., an equal array).
     <br>Link: https://leetcode.com/problems/equal-row-and-column-pairs/description/?envType=study-plan-v2&envId=leetcode-75 </li> <br>
+<li> Pr-1496 [C++] (Path Crossing): Given a string path, where path[i] = 'N', 'S', 'E' or 'W', each representing moving one unit north, south, east, or west, respectively. You start at the origin (0, 0) on a 2D plane and walk on the path specified by path.
+<br>Return true if the path crosses itself at any point, that is, if at any time you are on a location you have previously visited. Return false otherwise.<br>
+<br>Link: https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23 </li> <br>
 </ol>
