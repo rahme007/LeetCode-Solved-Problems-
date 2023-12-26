@@ -56,4 +56,8 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
 <li> Pr-1496 [C++] (Path Crossing): Given a string path, where path[i] = 'N', 'S', 'E' or 'W', each representing moving one unit north, south, east, or west, respectively. You start at the origin (0, 0) on a 2D plane and walk on the path specified by path.
 <br>Return true if the path crosses itself at any point, that is, if at any time you are on a location you have previously visited. Return false otherwise.<br>
 <br>Link: https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23 </li> <br>
+<li> Pr-2130 [C++] (Maximum Twin Sum of a Linked List): In a linked list of size n, where n is even, the ith node (0-indexed) of the linked list is known as the twin of the (n-1-i)th node, if 0 <= i <= (n / 2) - 1.
+<ul style= “list-style-type⚫> <li>For example, if n = 4, then node 0 is the twin of node 3, and node 1 is the twin of node 2. These are the only nodes with twins for n = 4. </li> </ul>
+<br> The twin sum is defined as the sum of a node and its twin. <br> <br> Given the head of a linked list with even length, return the maximum twin sum of the linked list. <br>
+<br>Link: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ </li> <br>
 </ol>
