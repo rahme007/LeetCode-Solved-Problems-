@@ -60,4 +60,7 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
 <ul style= “list-style-type⚫> <li>For example, if n = 4, then node 0 is the twin of node 3, and node 1 is the twin of node 2. These are the only nodes with twins for n = 4. </li> </ul>
 <br> The twin sum is defined as the sum of a node and its twin. <br> <br> Given the head of a linked list with even length, return the maximum twin sum of the linked list. <br>
 <br>Link: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ </li> <br>
+<li> Pr-1578 [C++] (Minimum Time to Make Rope Colorful): Alice has n balloons arranged on a rope. You are given a 0-indexed string colors where colors[i] is the color of the ith balloon. Alice wants the rope to be colorful. She does not want two consecutive balloons to be of the same color, so she asks Bob for help. Bob can remove some balloons from the rope to make it colorful. You are given a 0-indexed integer array neededTime where neededTime[i] is the time (in seconds) that Bob needs to remove the ith balloon from the rope.
+<br>Return the minimum time Bob needs to make the rope colorful. <br>
+    <br>Link: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/ </li> <br>
 </ol>
