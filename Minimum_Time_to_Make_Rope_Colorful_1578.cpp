@@ -1,4 +1,5 @@
-// Minimum_Time_to_Make_Rope_Colorful_1578.cpp : The approach is based on two-pointers solution
+//  https://github.com/rahme007
+//Minimum_Time_to_Make_Rope_Colorful_1578.cpp : The approach is based on two-pointers solution
 //
 
 #include <iostream>
