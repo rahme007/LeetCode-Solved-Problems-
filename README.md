@@ -63,4 +63,6 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
 <li> Pr-1578 [C++] (Minimum Time to Make Rope Colorful): Alice has n balloons arranged on a rope. You are given a 0-indexed string colors where colors[i] is the color of the ith balloon. Alice wants the rope to be colorful. She does not want two consecutive balloons to be of the same color, so she asks Bob for help. Bob can remove some balloons from the rope to make it colorful. You are given a 0-indexed integer array neededTime where neededTime[i] is the time (in seconds) that Bob needs to remove the ith balloon from the rope.
 <br>Return the minimum time Bob needs to make the rope colorful. <br>
     <br>Link: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/ </li> <br>
+<li> Pr-83 [C++] (Remove Duplicates from Sorted List): Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list <i>sorted</i> as well.
+<br>Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/ </li> <br>
 </ol>
