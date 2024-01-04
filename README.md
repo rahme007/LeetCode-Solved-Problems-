@@ -65,4 +65,12 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
     <br>Link: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/ </li> <br>
 <li> Pr-83 [C++] (Remove Duplicates from Sorted List): Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list <i>sorted</i> as well.
 <br>Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/ </li> <br>
+<li> Pr-2610 [C++] (Convert an Array Into a 2D Array With Conditions): You are given an integer array nums. You need to create a 2D array from nums satisfying the following conditions:
+    <ul style= “list-style-type⚫>
+    <li>The 2D array should contain <b>only </b> the elements of the array nums.</li>
+    <li>Each row in the 2D array contains <b>distinct</b> integers. 
+    <li> The number of rows in the 2D array should be <b> minimal</b>. </li> </ul>
+    &nbsp;
+  Return the resulting array. If there are multiple answers, return any of them.
+<br>Link: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/ </li> <br>
 </ol>
