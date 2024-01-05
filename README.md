@@ -73,4 +73,6 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
     &nbsp;
   Return the resulting array. If there are multiple answers, return any of them.
 <br>Link: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/ </li> <br>
+<li> Pr-300 [C++] (Longest Increasing Subsequence) Given an integer array nums, return the length of the longest strictly increasing subsequence.
+<br> Link: https://leetcode.com/problems/longest-increasing-subsequence/description/ </li> </br>
 </ol>
