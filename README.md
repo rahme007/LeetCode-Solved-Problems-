@@ -80,4 +80,8 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
 <br><b>A common string with the least index sum</b> is a common string such that if it appeared at list1[i] and list2[j] then i + j should be the minimum value among all the other common strings. </br>
 <br>Return all the common strings with the least index sum. Return the answer in any order.</br>
 <br> Link: https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/ </li> </br>
+<li> Pr- 543 [C] (Diameter of Binary Tree) Given the root of a binary tree, return <i>the length of the <b>diameter</b> of the tree</i>. 
+<br>The <b>diameter</b> of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root.</br>
+<br>The <b>length</b> of a path between two nodes is represented by the number of edges between them.</br>
+<br> Link: https://leetcode.com/problems/diameter-of-binary-tree/description/ </br> </li> 
 </ol>
