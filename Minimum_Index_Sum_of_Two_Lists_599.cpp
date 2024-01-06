@@ -15,7 +15,8 @@ class Solution {
 public:
     vector<string> findRestaurant(vector<string>& list1, vector<string>& list2) {
         unordered_map<string, int>umap;
-        int minIdx = 2000;
+        int minIdx = 2000; // since the max constraint is 1000; we can assign 2000 (2000>1000)
+                          //  we can also assign INT_MAX with <limits.h>
         vector<string> commonIdx{};
         for (int i = 0;i < list1.size();i++) {
             umap[list1[i]] = i;
