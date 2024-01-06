@@ -75,4 +75,9 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
 <br>Link: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/ </li> <br>
 <li> Pr-300 [C++] (Longest Increasing Subsequence) Given an integer array nums, return the length of the longest strictly increasing subsequence.
 <br> Link: https://leetcode.com/problems/longest-increasing-subsequence/description/ </li> </br>
+<li> Pr-599 [C++] (Minimum Index Sum of Two Lists) Given two arrays of strings list1 and list2, find <b>the common strings with the least index sum</b>.
+<br>A <b>common string</b> is a string that appeared in both list1 and list2.</br>
+<br><b>A common string with the least index sum</b> is a common string such that if it appeared at list1[i] and list2[j] then i + j should be the minimum value among all the other common strings. </br>
+<br>Return all the common strings with the least index sum. Return the answer in any order.</br>
+<br> Link: https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/ </li> </br>
 </ol>
