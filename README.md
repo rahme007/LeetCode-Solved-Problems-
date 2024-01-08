@@ -12,12 +12,12 @@
 This is the collection of LeetCode Solved Problems.
 
 <ol type = "1">
-  <li> Pr-1 (Two Sum): Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order.
+  <li> Pr-1 [Python] (Two Sum): Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order.
     <br>Link: https://leetcode.com/problems/two-sum/ </li> <br>
-  <li> Pr-2 (Add Two Numbers): You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list. You may assume the two numbers do not contain any leading zero, except the number 0 itself. <br>Link: https://leetcode.com/problems/add-two-numbers/ </li><br>
+  <li> Pr-2 [Python] (Add Two Numbers): You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list. You may assume the two numbers do not contain any leading zero, except the number 0 itself. <br>Link: https://leetcode.com/problems/add-two-numbers/ </li><br>
   <li> Pr-26 Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Since it is impossible to change the length of the array in some languages, you must instead have the result be placed in the first part of the array nums. More formally, if there are k elements after removing the duplicates, then the first k elements of nums should hold the final result. It does not matter what you leave beyond the first k elements. Return k after placing the final result in the first k slots of nums. Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.<br>
 Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/ </li>
-  <li>Pr-167 (Two Sum II - Input Array Is Sorted): Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.
+  <li>Pr-167 [Python] (Two Sum II - Input Array Is Sorted): Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.
 Return the indices of the two numbers, index1 and index2, added by one as an integer array [index1, index2] of length 2.The tests are generated such that there is exactly one solution. You may not use the same element twice.
 <br> Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ </li>
   <li>Pr-15 (3Sum):Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0. Notice that the solution set must not contain duplicate triplets. 
@@ -84,4 +84,6 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
 <br>The <b>diameter</b> of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root.</br>
 <br>The <b>length</b> of a path between two nodes is represented by the number of edges between them.</br>
 <br> Link: https://leetcode.com/problems/diameter-of-binary-tree/description/ </br> </li> 
+<li> Pr- 938 [C] (Range Sum of BST) Given the <i>root</i> node of a binary search tree and two integers low and high, return the sum of values of all nodes with a value in the inclusive range [low, high].
+<br> Link: https://leetcode.com/problems/range-sum-of-bst/ </br> </li> 
 </ol>
