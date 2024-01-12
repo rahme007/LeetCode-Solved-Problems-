@@ -88,4 +88,8 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
 <br> Link: https://leetcode.com/problems/diameter-of-binary-tree/description/ </br> </li> 
 <li> Pr- 938 [C] (Range Sum of BST) Given the <i>root</i> node of a binary search tree and two integers low and high, return the sum of values of all nodes with a value in the inclusive range [low, high].
 <br> Link: https://leetcode.com/problems/range-sum-of-bst/ </br> </li> 
+<li> Pr-1704 [C] (Determine if String Halves Are Alike) You are given a string s of even length. Split this string into two halves of equal lengths, and let a be the first half and b be the second half.
+<br>Two strings are <b>alike</b> if they have the same number of vowels ('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'). Notice that s contains uppercase and lowercase letters.</br>
+Return true if a and b are <b>alike</b>. Otherwise, return <i>false</i>.
+<br> Link: https://leetcode.com/problems/determine-if-string-halves-are-alike/description/ </br> </li>
 </ol>
