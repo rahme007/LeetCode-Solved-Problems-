@@ -92,4 +92,8 @@ Return the indices of the two numbers, index1 and index2, added by one as an int
 <br>Two strings are <b>alike</b> if they have the same number of vowels ('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'). Notice that s contains uppercase and lowercase letters.</br>
 Return true if a and b are <b>alike</b>. Otherwise, return <i>false</i>.
 <br> Link: https://leetcode.com/problems/determine-if-string-halves-are-alike/description/ </br> </li>
+<li> You have a set of integers s, which originally contains all the numbers from 1 to n. Unfortunately, due to some error, one of the numbers in s got duplicated to another number in the set, which results in <b>repetition of one</b> number and <b>loss of another number</b>.
+<br>You are given an integer array nums representing the data status of this set after the error.</br>
+<br>Find the number that occurs twice and the number that is missing and return <i>them in the form of an array</i>.</br>
+<br> Link: https://leetcode.com/problems/set-mismatch/description/ </br>
 </ol>
