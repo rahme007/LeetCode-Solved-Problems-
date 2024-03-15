@@ -96,4 +96,8 @@ Return true if a and b are <b>alike</b>. Otherwise, return <i>false</i>.
 <br>You are given an integer array nums representing the data status of this set after the error.</br>
 <br>Find the number that occurs twice and the number that is missing and return <i>them in the form of an array</i>.</br>
 <br> Link: https://leetcode.com/problems/set-mismatch/description/ </br>
+<li>Pr- 2485 [C] (Find the Pivot Integer) Given a positive integer n, find the pivot integer x such that:
+<ul style= “list-style-type⚫>
+<li>The sum of all elements between 1 and x inclusively equals the sum of all elements between x and n inclusively. </li></ul>
+Return the pivot integer x. If no such integer exists, return -1. It is guaranteed that there will be at most one pivot index for the given input. </li>
 </ol>
