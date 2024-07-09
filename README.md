@@ -100,4 +100,14 @@ Return true if a and b are <b>alike</b>. Otherwise, return <i>false</i>.
 <ul style= “list-style-type⚫>
 <li>The sum of all elements between 1 and x inclusively equals the sum of all elements between x and n inclusively. </li></ul>
 Return the pivot integer x. If no such integer exists, return -1. It is guaranteed that there will be at most one pivot index for the given input. </li>
+ 
+<li>Pr- 1701 [C] (Average Waiting Time) There is a restaurant with a single chef. You are given an array customers, where customers[i] = [arrival<sub>i</sub>, time<sub>i</sub>]:
+<ul style= “list-style-type⚫> 
+<li>arrival<sub>i</sub> is the arrival time of the ith customer. The arrival times are sorted in non-decreasing order. </li>
+<li> time<sub>i</sub> is the time needed to prepare the order of the ith customer. </li>
+</ul>
+When a customer arrives, he gives the chef his order, and the chef starts preparing it once he is idle. The customer waits till the chef finishes preparing his order. 
+The chef does not prepare food for more than one customer at a time. The chef prepares food for customers in the order they were given in the input.
+Return the <i>average</i> waiting time of all customers. Solutions within 10<sup>-5</sup> from the actual answer are considered accepted. </li>
+
 </ol>
