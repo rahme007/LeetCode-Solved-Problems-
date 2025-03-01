@@ -110,4 +110,10 @@ When a customer arrives, he gives the chef his order, and the chef starts prepar
 The chef does not prepare food for more than one customer at a time. The chef prepares food for customers in the order they were given in the input.
 Return the <i>average</i> waiting time of all customers. Solutions within 10<sup>-5</sup> from the actual answer are considered accepted. </li>
 
+<li>Pr- 2460 [C++] You are given a 0-indexed array nums of size n consisting of non-negative integers.You need to apply n - 1 operations to this array where, in the ith operation (0-indexed), you will apply the following on the ith element of nums:
+<ul style= “list-style-type⚫> 
+<li> If nums[i] == nums[i + 1], then multiply nums[i] by 2 and set nums[i + 1] to 0. Otherwise, you skip this operation. After performing all the operations, shift all the 0's to the end of the array. </li> 
+</ul>
+Return the resulting array.
+Note that the operations are applied sequentially, not all at once. </li>
 </ol>
