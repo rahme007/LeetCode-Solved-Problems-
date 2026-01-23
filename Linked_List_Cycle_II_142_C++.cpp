@@ -13,7 +13,6 @@ typedef struct ListNode {
 } ListNode;
 
 
-// Solution class (LeetCode-style)
 class Solution {
 public:
 
