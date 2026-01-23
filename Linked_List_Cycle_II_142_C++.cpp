@@ -1,7 +1,7 @@
-#include <iostream>     // For input/output (cout, endl)
-#include <vector>       // Included but not used here (can be removed)
+#include <iostream>
+#include <vector>
 
-using namespace std;    // Avoids writing std:: repeatedly
+using namespace std;
 
 // Definition of a singly linked list node
 typedef struct ListNode {
@@ -89,5 +89,5 @@ int main() {
         cout << "No cycle detected" << endl;
     }
 
-    return 0;   // End of program
+    return 0;
 }
