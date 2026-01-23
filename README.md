@@ -117,5 +117,6 @@ Return the <i>average</i> waiting time of all customers. Solutions within 10<sup
 Return the resulting array.
 Note that the operations are applied sequentially, not all at once. </li>
 
-<li> Pr- 209 [C++] Given an array of positive integers nums and a positive integer target, return the minimal length of a subarray whose sum is greater than or equal to target. If there is no such subarray, return 0 instead.
+<li> Pr- 209 [C++] Given an array of positive integers nums and a positive integer target, return the minimal length of a subarray whose sum is greater than or equal to target. If there is no such subarray, return 0 instead.</li>
+<li> Pr- 142[C++] Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null. There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to (0-indexed). It is -1 if there is no cycle. Note that pos is not passed as a parameter. Do not modify the linked list</li>
 </ol>
